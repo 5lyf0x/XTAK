@@ -89,12 +89,6 @@ XTAK is actively developed and may contain experimental or evolving functionalit
 
 Public releases represent specific tested snapshots. Development builds and unreleased features may differ from the public release available here.
 
-## Security
-
-Do not commit private signing keys, keystores, passwords, API credentials, private configuration files, or other secrets to this repository.
-
-If you discover a security issue, avoid posting sensitive exploit details or credentials in a public issue.
-
 ## Licensing
 
 XTAK incorporates and modifies software from the ATAK ecosystem and may also include third-party components with their own license requirements.
