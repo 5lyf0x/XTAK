@@ -73,7 +73,7 @@ XTAK ADS-B brings aircraft tracking data into XTAK. It is intended to receive an
 
 [XTAK-Voice-0.1.0-r6-civRelease.apk](./XTAK-Voice-0.1.0-r6-civRelease.apk)
 
-XTAK Voice adds voice-communications capability to XTAK. It is intended to support integrated field voice workflows alongside the map and other tactical tools, with development continuing around transport, audio handling, controls, and interoperability.
+XTAK Voice adds voice-communications capability to XTAK. It is primarily geared toward Token Mesh transport for decentralized and resilient field voice communications, while also supporting—and continuing to expand—compatibility with TAK Voice workflows. Development is ongoing around transport, audio handling, controls, and interoperability.
 
 ### XTAK WRAITH
 
