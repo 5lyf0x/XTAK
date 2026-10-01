@@ -51,6 +51,36 @@ The corresponding public source package is included in this repository:
 
 This archive contains the source associated with the public XTAK 5.5 release.
 
+## Plugins
+
+XTAK includes several companion plugins that extend the base application with additional field capabilities.
+
+> **Development status:** All of the plugins below are still under active development. Each is at least partially functional, but features, compatibility, user interface, and behavior may change between builds.
+
+### XTAK VISION
+
+[XTAK VISION R2-i06.apk](./XTAK%20VISION%20R2-i06.apk)
+
+XTAK VISION is a camera and augmented-reality plugin for displaying nearby TAK objects in the live camera view. It is designed to provide a tactical heads-up view with projected object positions, bearing/distance information, native item details, observation and media capture features, and source-aware highlighting for supported sensor tracks.
+
+### XTAK ADS-B
+
+[XTAK-ADSB-0.1.0-i03-civRelease.apk](./XTAK-ADSB-0.1.0-i03-civRelease.apk)
+
+XTAK ADS-B brings aircraft tracking data into XTAK. It is intended to receive and display ADS-B-derived aircraft positions as live situational-awareness objects on the map for local air-traffic awareness and sensor integration.
+
+### XTAK Voice
+
+[XTAK-Voice-0.1.0-r6-civRelease.apk](./XTAK-Voice-0.1.0-r6-civRelease.apk)
+
+XTAK Voice adds voice-communications capability to XTAK. It is intended to support integrated field voice workflows alongside the map and other tactical tools, with development continuing around transport, audio handling, controls, and interoperability.
+
+### XTAK WRAITH
+
+[XTAK-WRAITH-0.2.0-r3-civRelease.apk](./XTAK-WRAITH-0.2.0-r3-civRelease.apk)
+
+XTAK WRAITH is a wireless Remote ID detection and tracking plugin for unmanned aircraft. It scans supported Bluetooth and Wi-Fi Remote ID broadcasts, extracts available aircraft information, and plots detected UAVs in XTAK for local situational awareness.
+
 ## Building
 
 XTAK is based on the ATAK CIV 5.5.1.8 Android codebase and uses the Android/Gradle build system.
